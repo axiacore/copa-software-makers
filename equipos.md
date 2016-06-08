@@ -18,7 +18,7 @@ Para inscribirte debes listar el nombre de tu equipo y sus integrantes en este a
  
 
 
-### AxiaCore
+### Axiacore
 
 * Santiago Feijoo - @sanfeijoo
 * Camilo Nova - @camilonova
