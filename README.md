@@ -1,6 +1,6 @@
 # Copa Software Makers
 
-La **Copa Software Makers** es un torner de Fútbol para empresas que hacen software.
+La **Copa Software Makers** es un torneo de Fútbol para empresas que hacen software.
 
 ![](https://github.com/PabloVallejo/copa-software-makers/blob/master/photo.jpeg?raw=true)
 
