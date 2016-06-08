@@ -19,18 +19,17 @@ La **Copa Software Makers** es un torner de Fútbol para empresas que hacen soft
 
 ### Inscripción
 
-Para registrar tu equipo debes crear un [Pull request]() donde listes el nombre de tu equipo y los miembros en  **[Equipos.md]()**. Ejemplo:
+Para registrar tu equipo debes crear un **[pull request](https://help.github.com/articles/using-pull-requests/)** donde listes el nombre de tu equipo y los miembros en  **[Equipos.md](https://github.com/PabloVallejo/copa-software-makers/blob/master/equipos.md)**. 
+Cada equipo debe contar con 5 jugadores
+
+**Ejemplo:**
 
 
-**Nombre** Acme
-**Empresa**: Acme Inc.
-**Integrantes**:
+### Acme
 
 * John Doe - @johndoe
 * Jeny Doe - @jennydoe
 * Shaina Shupp - @sshup
 * Brenton Friedel @brfrie
 * Pepito perez - @pperez
-
-Cada equipo debe contar con 5 jugadores
 
